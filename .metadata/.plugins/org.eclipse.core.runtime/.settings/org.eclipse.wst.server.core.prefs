@@ -1,0 +1,4 @@
+#Sat Apr 28 15:57:12 BRT 2012
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v7.0" location\="/home/web2482/workspace/apache-tomcat-7.0.14" name\="Apache Tomcat v7.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.70" timestamp\="0"/>\n</runtimes>\n
+eclipse.preferences.version=1

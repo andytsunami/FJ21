@@ -1,0 +1,14 @@
+package br.com.caelum.hibernate;
+
+import org.hibernate.Session;
+
+public class ProdutoDAO {
+	Session session = new HibernateUtil().getSession();
+	
+	ProdutoDAO dao = new ProdutoDAO(session);
+	
+	Produto produto = new Produto();
+	
+
+	ession.
+}
