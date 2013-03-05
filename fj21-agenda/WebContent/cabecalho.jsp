@@ -5,7 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sitema de agendas</title>
+<link type="text/css" href="css/jquery.css" rel="stylesheet" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<title>Sistema de agendas</title>
 </head>
 <body>
 <img src='<c:url value="/imagens/caelum.png"/>' />
